@@ -2,12 +2,12 @@
 
 # HTML CSS Vanila JS 연습용 메모장
 # js 로 구현한 내용
-<ul>
-  <li>input에 텍스트 입력 기능</li>
-  <li>plus버튼 클릭 or 엔터키 치면 텍스트 등록 기능</li>
-  <li>쓰레기통 버튼 클릭하면 delete 기능</li>
-  <li>텍스트 입력 완료 후, 텍스트 등록되면 input을 초기화 및 focus 기능</li>
-</ul>
+
+- input에 텍스트 입력 기능
+- plus버튼 클릭 or 엔터키 치면 텍스트 등록 기능
+- 쓰레기통 버튼 클릭하면 delete 기능
+- 텍스트 입력 완료 후, 텍스트 등록되면 input을 초기화 및 focus 기능
+
 
 
 
